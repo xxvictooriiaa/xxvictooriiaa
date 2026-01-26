@@ -12,10 +12,6 @@
 ## 🛠️ Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma,ae,ps)](https://skillicons.dev)<br><br>
 
-## 📫 Contato
-
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=green&link=mailto:{SeuEmail})](mailto:{davi.vickcaroli@gmail.com})
-[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-green?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victóriabernardo/)](www.linkedin.com/in/victóriabernardo) <br><br>
 
 
 ![Victoria2378 GitHub stats](https://github-readme-stats.vercel.app/api?username=xxvictooriiaa&show_icons=true&theme=gruvbox)
