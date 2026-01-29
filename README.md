@@ -2,7 +2,7 @@
 <h1 align="center">    ✩°｡ ⋆⸜ 🎧✮. Welcome my Profile!˗ˏˋ ★ ˎˊ˗ </h1>
 
 <p align="center">
-    ──★ ˙ ̟🐳 💻 Estudante de Ciência da Computação – 1º semestre na FEI !! 
+    ──★ ˙ ̟🐳 💻 Estudante de Ciência da Computação – 2º semestre na FEI !! 
 </p><br><br> 
     <img src="https://static.wikia.nocookie.net/gensin-impact/images/6/60/Icon_Emoji_Paimon%27s_Paintings_35_Kinich_4.png/revision/latest?cb=20240904041637" align="right" width="300px">
 
