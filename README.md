@@ -18,3 +18,10 @@
 
 ## 🪼 Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma,ae,ps)](https://skillicons.dev)<br><br>
+
+## 🪼 Estatísticas do GitHub
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=xxvictooriiaa&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&icon_color=87CEFA&text_color=87CEFA&bg_color=e0f7fa" width="500px" />
+</div>
+
+<img src="https://img.shields.io/badge/Ouvindo-Sudden%20Spark%20-ff69b4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=87CEFA">
