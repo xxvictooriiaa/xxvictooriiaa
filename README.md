@@ -14,7 +14,7 @@
     <img src="https://static.wikia.nocookie.net/go-nakamura/images/0/02/Nakamura_Okuto.png/revision/latest/scale-to-width/360?cb=20241111200305" align="right" width="300px">
 
 ## 🪼 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,javascript,python,cs,node.js,)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,cs,c)](https://skillicons.dev)<br><br>
 
 ## 🪼 Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma,ae,ps)](https://skillicons.dev)<br><br>
