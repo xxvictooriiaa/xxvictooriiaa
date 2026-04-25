@@ -1,17 +1,20 @@
-<img src="https://static.wikia.nocookie.net/gensin-impact/images/2/22/Namecard_Banner_Kinich_Ajaw.png/revision/latest/scale-to-width-down/1000?cb=20240917101331" alt="Olá Mundo">
-<h1 align="center">    ✩°｡ ⋆⸜ 🎧✮. Welcome my Profile!˗ˏˋ ★ ˎˊ˗ </h1>
+<p align="center">
+<img src="./gif nakamura.webp" width="40%" />
+    <p align="center">
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&size=28&width=650&lines=Bem+Vindo(a)+Ao+Meu+Perfil!!" />
+</p>
 
 <p align="center">
-    ──★ ˙ ̟🐳 💻 Estudante de Ciência da Computação – 2º semestre na FEI !! 
-</p><br><br> 
-    <img src="https://static.wikia.nocookie.net/gensin-impact/images/6/60/Icon_Emoji_Paimon%27s_Paintings_35_Kinich_4.png/revision/latest?cb=20240904041637" align="right" width="300px">
+  <b> Olá! Eu Me Chamo Victória, tenho 19 anos e Estou Cursando o 2 Semestre de Ciência da Computação no Centro Universitário FEI</b>
+    <br>
+  <b>⭒-.⋆🪼⋆.-⭒</b>
 
-## 🚀 Linguagens de Programação
+</p><br><br> 
+    <img src="https://static.wikia.nocookie.net/go-nakamura/images/0/02/Nakamura_Okuto.png/revision/latest/scale-to-width/360?cb=20241111200305" align="right" width="300px">
+
+## 🪼 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=html,css,c,javascript,python,cs,node.js,)](https://skillicons.dev)<br><br>
 
-## 🛠️ Ferramentas e Tecnologias
+## 🪼 Ferramentas e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,discord,figma,ae,ps)](https://skillicons.dev)<br><br>
-
-
-
-˚୨୧⋆｡˚ ⋆ Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação!!! Estou ansiosa para ouvir de você! 🐚 <br><br>
